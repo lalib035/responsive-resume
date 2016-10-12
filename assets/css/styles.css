@@ -9,7 +9,7 @@
 /* styles.css */
 /* ======= Base ======= */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Bevan', serif;
+  font-family: 'Doppio One', serif;
   font-weight: 700;
 }
 a {
@@ -181,7 +181,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #4183C4;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -234,6 +234,7 @@ p {
 }
 .skillset .level-title {
   font-size: 14px;
+  font-weight: normal;
   margin-top: 0;
   margin-bottom: 12px;
 }
@@ -243,7 +244,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7bc2d3;
+  background: #4183C4;
 }
 .footer {
   padding: 30px;
